@@ -1,4 +1,3 @@
-# superpy_new
-Aanpassing n.a.v. nakijkwerk
+# UITLEG VIDEO N.A.V. NAKIJKWERK
 
 https://youtu.be/krF-9iiR4-Q
